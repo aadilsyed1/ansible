@@ -1,2 +1,2 @@
 # playbooks
-Demonstrating skills and testing playbooks to learn and run automation tasks.
+Demonstrating skills and testing Ansible playbooks to learn and run automation tasks.
