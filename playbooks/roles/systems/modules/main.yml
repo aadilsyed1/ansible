@@ -3,7 +3,7 @@
   become: yes
   template:
     src: files/motd.j2
-    dest: /etc/motd
+    dest: /etc/systems
     owner: root
     group: root
     mode: 0444
