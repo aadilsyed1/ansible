@@ -1,10 +1,11 @@
 ---
 - name: Configurating system
-  hosts:
+  hosts: 192.168.154.131
   become: yes
 
   tasks:
 
 - name: Role calling
-  hosts: servers
+  hosts: 192.168.154.131
   roles: 
+  
